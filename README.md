@@ -1,6 +1,6 @@
 # NodeJs, Express, EJS & MongoDB Blog - CRUD
 
-![My Image](https://i.ibb.co/abcd1234/yourimagename.jpg)
+![My Image]([https://i.ibb.co/abcd1234/yourimagename.jpg](https://i.ibb.co/nqY0zTwt/Screenshot-2025-10-07-004605.png))
 
 ## You need:
 - NodeJs
