@@ -1,6 +1,6 @@
 # NodeJs, Express, EJS & MongoDB Blog - CRUD
 
-![alt text](/readme-image.jpg?raw=true)
+![My Image](https://i.ibb.co/abcd1234/yourimagename.jpg)
 
 ## You need:
 - NodeJs
